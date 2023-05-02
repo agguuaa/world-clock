@@ -61,6 +61,7 @@ function updateCity(event) {
   )}</small>
             </div>
           </div>
+          <a href="index.html">Back to start page</a>
         `;
 }
 
