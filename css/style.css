@@ -69,3 +69,45 @@ footer {
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
 }
+
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 30px;
+    padding: 0px;
+  }
+
+  h2 {
+    font-size: 18px;
+    margin: 0px;
+    padding-right: 10px;
+  }
+
+  h2.short {
+    padding-right: 52px;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+
+  .container {
+    padding: 30px;
+    margin: 30px;
+  }
+
+  .city {
+    padding-right: 10px;
+    font-size: 16px;
+  }
+
+  .cities {
+    padding: 18px;
+    font-size: 16px;
+  }
+
+  .time {
+    font-size: 30px;
+    padding-left: 10px;
+    line-height: 0.8;
+  }
+}
