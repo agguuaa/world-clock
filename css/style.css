@@ -71,6 +71,10 @@ footer {
 }
 
 @media (max-width: 1000px) {
+  body {
+    text-align: center;
+  }
+
   h1 {
     font-size: 30px;
     padding: 0px;
